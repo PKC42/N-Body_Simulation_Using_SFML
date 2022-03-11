@@ -1,0 +1,15 @@
+10
+15.50e+11
+ 0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  10.9890e+30      sun.gif
+ 1.4960e+11  0.0000e+00  0.0000e+00  2.9800e+04  5.9740e+24    	 asteroid.gif
+ 2.2790e+11  0.0000e+00  0.0000e+00  4.4100e+04  6.4190e+23      asteroid.gif
+ 3.7900e+11  0.0000e+00  0.0000e+00  8.7900e+04  3.3020e+23      asteroid.gif
+ 4.0820e+11  0.0000e+00  0.0000e+00  16.5000e+04  4.8690e+24     asteroid.gif
+ 5.4960e+11  0.0000e+00  0.0000e+00  2.9800e+04  5.9740e+24    	 asteroid.gif
+ 6.2790e+11  0.0000e+00  0.0000e+00  4.4100e+04  6.4190e+23      asteroid.gif
+ 7.7900e+11  0.0000e+00  0.0000e+00  8.7900e+04  3.3020e+23      asteroid.gif
+ 8.0820e+11  0.0000e+00  0.0000e+00  16.5000e+04  4.8690e+24     asteroid.gif
+ 10.0820e+11  0.0000e+00  0.0000e+00  16.5000e+04  4.8690e+24     asteroid.gif
+
+This is a universe with the sun and some large asteroids. Physics is definitely not accurate!
+By: Pratush Kc
